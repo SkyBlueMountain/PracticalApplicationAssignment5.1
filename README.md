@@ -7,3 +7,4 @@
 - Most coupons are accepted between 10am and 2pm
 - The most accepted coupons are restaurants under $20 and carry out and take away
 
+couponAssignment.ipynb
